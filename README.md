@@ -36,20 +36,6 @@ This is a simple student registration system built using Python and Tkinter. It 
 3. **Register a Student**: Enter the student ID and course ID, then click "Register".
 4. **Show Courses**: Enter the student ID and click "Show Courses" to view the courses the student is registered in.
 
-## Screenshots
-
-### Main Interface
-![Main Interface](screenshot1.png)
-
-### Add Student
-![Add Student](screenshot2.png)
-
-### Add Course
-![Add Course](screenshot3.png)
-
-### Register Student
-![Register Student](screenshot4.png)
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
